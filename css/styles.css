@@ -74,7 +74,7 @@ margin-left:10%;
     margin-top:2em;
     margin-bottom:2em;
     width:100%;
-    background-color: var(--dark-cyan) !important;
+    background-color: var(--dark-cyan);
     color: var(--white);
     border:0px;
     padding:10px;
