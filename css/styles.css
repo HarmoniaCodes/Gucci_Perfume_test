@@ -76,8 +76,8 @@ margin-left:10%;
     width:100%;
     background-color: var(--dark-cyan);
     color: var(--white);
+    padding:15px;
     border:0px;
-    padding:10px;
     border-radius:10px;
     text-transform:none;
   }
@@ -123,11 +123,10 @@ max-width: 380px;
 /*desktop size*/
 @media (min-width: 540px) {
   .container {
-    /*position: relative; */
-    max-width: 640px;}
+    max-width: 600px;}
     .info-box {
       width:100%;
-      margin-top:2em;
+      margin-top:1em;
       margin-left:1rem;
         }
   .column,
